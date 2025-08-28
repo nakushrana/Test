@@ -1,1 +1,1 @@
-I'm trying to learn what github is
+I'm trying to learn what github is.
